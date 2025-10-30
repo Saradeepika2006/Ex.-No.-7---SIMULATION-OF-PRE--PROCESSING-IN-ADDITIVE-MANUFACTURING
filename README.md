@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1353" height="528" alt="Screenshot 2025-10-30 112149" src="https://github.com/user-attachments/assets/f4ee03e7-839c-4ff7-90af-97a29ff39758" />
 
-### Name:
-### Register Number:
+
+### Name: MOPURI SARADEEPIKA
+### Register Number:212224040201
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
